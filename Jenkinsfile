@@ -45,7 +45,7 @@ pipeline {
 
   post {
     success {
-      echo "SUCCESSFUL check pull request"
+      echo "SUCCESSFUL check pull request 2"
     }
     failure {
       echo "FAILED"
